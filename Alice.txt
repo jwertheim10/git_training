@@ -1,5 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. This is for the dev environment.
 This is the second line 2.0.
 This is a third line for merging divergent branches.
-This is line 4.
+This is line 4.0. Another 1.
 I have rewrote history for Alice.
