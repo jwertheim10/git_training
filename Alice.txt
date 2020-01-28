@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. This is for the dev environment.
 This is the second line.
-=======
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. This is for dev environment.
-This is the second line 2.0.
->>>>>>> Stashed changes
 This is a third line for merging divergent branches.
 This is line 4.
